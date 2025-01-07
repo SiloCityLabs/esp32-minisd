@@ -1,0 +1,5 @@
+MODE=CLIENT
+HOMEWIFI=wifiname
+HOMEPASS=password
+FTPUSER=user
+FTPPASS=password
