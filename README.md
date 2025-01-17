@@ -5,6 +5,7 @@ This repository includes examples of two exciting projects currently in progress
 1. **70mai Dashcam File Copier** - Located in the folder `./70mai`, this project enables seamless file transfer from your 70mai dashcam.
 2. **Simple FTP Server** - Located in the folder `./ftp-server`, this project transforms your device into a lightweight FTP server.
 3. **Simple Web Server** - Located in the folder `./web-server`, this project transforms your device into a lightweight Web server.
+4. **USB Mount** - Use to store files and or sync them to another remote server. Can be used with airgapped systems or 3d printers for remote usb access.
 
 Welcome to the ESP32 MiniSD project! This is a flexible and compact design built for ESP32-C6 and ESP32-C3 microcontrollers, allowing you to easily integrate SD card storage, LED indicators, and charging capabilities. Perfect for data logging, IoT projects, or prototyping smart devices.
 
